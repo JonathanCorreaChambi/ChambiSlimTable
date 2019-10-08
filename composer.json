@@ -1,0 +1,18 @@
+{
+    "authors": [
+        {
+            "name": "Jonathan Josué Correa Chambi",
+            "email": "jonathancorrea@gmx.de",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Chambi_Slim_Table\\": "src/",
+            "Chambi_Slim_Table_Test\\": "tests/"
+        }
+    },
+    "require-dev" : {
+        "squizlabs/php_codesniffer": "3.*"
+    }
+}

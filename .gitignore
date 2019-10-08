@@ -1,0 +1,7 @@
+ .buildpath
+.project
+.DS_Store
+/composer.lock
+/vendor/
+.idea
+/.index.php
